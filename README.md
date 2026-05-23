@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+There+👋;I'm+Aarushi+Singh;Full+Stack+Developer+%7C+Web3+Builder;GenAI+%2B+Blockchain+Explorer;Learning+Never+Stops+⚡" />
 </h1>
@@ -12,13 +10,10 @@
 
 <div align="center">
 
-🔭 Currently building in **Blockchain & Web3**
-
-🌱 Exploring **App Development, Advanced AI Integrations & Scalable Systems**
-
-⚡ Strong believer that **great products come from solid engineering + continuous learning**
-
-🎧 I love developing with music on — especially late-night coding sessions with lofi playlists
+🔭 Currently building in **Blockchain & Web3**  
+🌱 Exploring **App Development, AI Integrations & Scalable Systems**  
+⚡ Strong believer in **solid engineering + continuous learning**  
+🎧 Develops with music on (lofi late-night coding sessions)
 
 </div>
 
@@ -28,11 +23,11 @@
 
 <div align="center">
 
-<a href="https://github.com/The-AarushiSingh" target="_blank">
+<a href="https://github.com/The-AarushiSingh">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
 </a>
 
-<a href="https://www.linkedin.com/in/aarushi-singh-24420a281/" target="_blank">
+<a href="https://www.linkedin.com/in/aarushi-singh-24420a281/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -42,17 +37,13 @@
 
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 
-<br/>
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,firebase,mongodb,mysql" />
-
+<br/>
 <img src="https://skillicons.dev/icons?i=cpp,python,solidity,git,github,vscode,figma,docker,aws" />
 
 </div>
-
-<br/>
 
 ---
 
@@ -63,11 +54,13 @@
 🧠 GenAI Integrations  
 ⛓️ Blockchain & Web3 Development  
 🌐 Full Stack JavaScript Applications  
-⚡ API Development & Backend Systems  
-📊 Problem Solving with C++ & DSA  
-📱 Exploring Cross-Platform App Development  
+⚡ Backend APIs & Systems  
+📊 DSA with C++  
+📱 Exploring App Development  
 
 </div>
+
+---
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
@@ -77,37 +70,9 @@
 
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=The-AarushiSingh&show_icons=true&theme=tokyonight&hide_border=true" />
 
+<br/>
+
 <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-AarushiSingh&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-
-
----
-
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-
-<br/>
-
-<div align="center">
-
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=The-AarushiSingh&theme=tokyonight&hide_border=true&border_radius=10" />
-
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=The-AarushiSingh&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github" />
-
-<br/>
-
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-AarushiSingh&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
-
-</div>
-
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=The-AarushiSingh&theme=algolia&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -127,7 +92,6 @@
 
 ### Thanks for visiting ✨
 
-Building. Learning. Shipping. Repeating.
+Building • Learning • Shipping • Repeating
 
 </div>
-```
