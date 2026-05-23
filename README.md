@@ -1,4 +1,4 @@
-```md
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=The-AarushiSingh.The-AarushiSingh" />
 
 <h1 align="center">
