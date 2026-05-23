@@ -69,24 +69,15 @@
 
 </div>
 
-html id="graph-section"
-html id="remove-snake-section"
-<h2 align="center">🐍 Contribution Graph 🐍</h2>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/The-AarushiSingh/The-AarushiSingh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=The-AarushiSingh&theme=tokyonight&hide_border=true" />
 
-</div>
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=The-AarushiSingh&show_icons=true&theme=tokyonight&hide_border=true" />
 
-
----
-
-<h2 align="center">📈 GitHub Activity Graph 📈</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=The-AarushiSingh&theme=tokyo-night&hide_border=true&area=true" />
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-AarushiSingh&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
