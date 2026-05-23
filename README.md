@@ -70,6 +70,7 @@
 </div>
 
 html id="graph-section"
+html id="remove-snake-section"
 <h2 align="center">🐍 Contribution Graph 🐍</h2>
 
 <div align="center">
@@ -77,6 +78,7 @@ html id="graph-section"
 <img src="https://raw.githubusercontent.com/The-AarushiSingh/The-AarushiSingh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
+
 
 ---
 
