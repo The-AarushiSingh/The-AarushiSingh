@@ -25,6 +25,7 @@
 > “कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।”  
 > Bhagavad Gita 2.47
 > > Focus on action, not outcome.
+> > 
 > I interpret this as: consistency in building matters more than perfection in planning.
 
 
