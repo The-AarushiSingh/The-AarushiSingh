@@ -22,11 +22,14 @@
   
 ## 🧘 Philosophy
 
-> “कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।”  
-> Bhagavad Gita 2.47
-> > Focus on action, not outcome.
-> > 
-> I interpret this as: consistency in building matters more than perfection in planning.
+> कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।
+> मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥
+>
+> — Bhagavad Gita 2.47
+>
+> Focus on your actions, not on the rewards. Do not be driven by results, nor fall into inaction.
+
+I interpret this as: consistency in building matters more than perfection in planning.
 
 
 ## 🧠 My Focus Areas
